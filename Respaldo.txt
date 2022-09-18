@@ -1,0 +1,3 @@
+3     Japon    Canada      36.9
+2Inglaterra     China     130.7
+1    Mexico       USA        12
